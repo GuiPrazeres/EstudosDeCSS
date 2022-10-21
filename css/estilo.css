@@ -10,6 +10,20 @@ pucsum.photos
 Overflow - Por padrão ele mostra mesmo que o conteudo extrapole os limites, enquanto o hidden não irá mostrar o que está para fora.
 Float - Flutuar, saindo assim do fluxo da pagina normal
 
+Media Queries
+exemplo - @media only screen and (min-width: 600px) and (max-width: 700px){}
+Smartphones
+@media only screen and (max-width: 600px)
+Telas maiores mas ainda pequenas
+@media only screen and (min-width: 600px)
+Tablets deitados
+@media only screen and (min-width: 768px)
+Desktop
+@media only screen and (min-width: 992px)
+Telas maiores
+@media only screen and (min-width: 1200px)
+
+
 */
 ul{
 	background: black;
